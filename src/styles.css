@@ -57,7 +57,7 @@ body {
 }
 
 .square {
-  background: #fff;
+  background: #ffffff;
   border: 1px solid #999;
   float: left;
   font-size: 24px;
@@ -71,7 +71,7 @@ body {
   width: 34px;
 }
 
-.board-row:after {
+.grid-row:after {
   clear: both;
   content: '';
   display: table;
